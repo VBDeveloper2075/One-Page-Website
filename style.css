@@ -1,6 +1,7 @@
 .tarjeta{
-    border: 2px solid black;
+    border: 20px solid rgb(37, 42, 4);
     max-width: 400px;
-    margin: 20px;
-    
+    margin bottom: 20px;
+    padding: auto;
+    border-radius: 5px;
 }
